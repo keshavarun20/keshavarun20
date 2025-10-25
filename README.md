@@ -1,4 +1,4 @@
-# Hello World!, I'm Keshav, a Sri Lankan Web Developer 👋🏼:
+# Hello World!, I'm Keshav, a Full-Stack Developer from Sri Lanka 👋🏼:
 currently working on Spring AI and exploring OpenAI models<br>👨🏼‍🎓 studying Bachelor's in Information Technology at UCSC<br>👨🏼‍💻 working as a web developer since 2022
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/keshavarunesar)
