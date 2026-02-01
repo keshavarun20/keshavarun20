@@ -2,7 +2,7 @@
 currently working on Spring AI and exploring OpenAI models<br>👨🏼‍🎓 studying Bachelor's in Information Technology at UCSC<br>👨🏼‍💻 working as a web developer since 2022
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/keshavarunesar)
-[![Website](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=About.me&logoColor=white)](https://keshavarunesar.vercel.app/)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=About.me&logoColor=white)](https://keshavarunesar.site/)
 
 # 💻 Tech Stack:
 
